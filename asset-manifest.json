@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shetty-ashish/moviefilter/static/css/main.5f361e03.chunk.css",
+    "main.js": "/shetty-ashish/moviefilter/static/js/main.c71bdf6b.chunk.js",
+    "main.js.map": "/shetty-ashish/moviefilter/static/js/main.c71bdf6b.chunk.js.map",
+    "runtime-main.js": "/shetty-ashish/moviefilter/static/js/runtime-main.3b23e860.js",
+    "runtime-main.js.map": "/shetty-ashish/moviefilter/static/js/runtime-main.3b23e860.js.map",
+    "static/js/2.445fd0ed.chunk.js": "/shetty-ashish/moviefilter/static/js/2.445fd0ed.chunk.js",
+    "static/js/2.445fd0ed.chunk.js.map": "/shetty-ashish/moviefilter/static/js/2.445fd0ed.chunk.js.map",
+    "index.html": "/shetty-ashish/moviefilter/index.html",
+    "precache-manifest.fc99a0ae808a28ca01f2556c8031bc87.js": "/shetty-ashish/moviefilter/precache-manifest.fc99a0ae808a28ca01f2556c8031bc87.js",
+    "service-worker.js": "/shetty-ashish/moviefilter/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/shetty-ashish/moviefilter/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.445fd0ed.chunk.js.LICENSE.txt": "/shetty-ashish/moviefilter/static/js/2.445fd0ed.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shetty-ashish/moviefilter/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b23e860.js",
+    "static/js/2.445fd0ed.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c71bdf6b.chunk.js"
+  ]
+}
